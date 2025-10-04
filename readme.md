@@ -27,6 +27,8 @@ FunHouse-F10-MPro EFI文件，只在1065G7的设备上测试过，系统为macOS
 * 请自行寻找可以在Tahoe驱动的网卡，原装网卡无解
 * i5与i3型号理论上也可以使用，不过我没有机器请自行测试
 * 没有Type-C与mini HDMI线，理论上HDMI可以输出，请自行测试
+* BIOS设置可以参考这位大佬的项目的BIOS部分[FunHouse-F10-MPro-Ice-Lake-Hackintosh
+](https://github.com/MlgmXyysd/FunHouse-F10-MPro-Ice-Lake-Hackintosh/tree/master/BIOS)
 
 ## 贡献列表
 
